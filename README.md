@@ -1,5 +1,9 @@
 
-<img width="2226" height="678" alt="Logonetflix" src="https://github.com/user-attachments/assets/cd8bfb6a-adeb-44a9-b40a-d2d25e96f030" />
+<img width="2226" height="670" alt="Logonetflix" src="https://github.com/user-attachments/assets/cd8bfb6a-adeb-44a9-b40a-d2d25e96f030" />
+
+
+[![LinkedIn Post ](https://img.shields.io/badge/Share%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/posts/dhirendra-singh-b5b947243_powerbi-workshop-by-coding-ninjas-activity-7369217672313454593-tmMa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADx5VbcBlv1MYit8UbW3ADG9Xn8tXNg832g)
+
 
 # **Netflix Insights Dashboard**
 
