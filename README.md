@@ -1,6 +1,7 @@
 
 <img width="2226" height="678" alt="Logonetflix" src="https://github.com/user-attachments/assets/cd8bfb6a-adeb-44a9-b40a-d2d25e96f030" />
-## 🎬 Netflix Insights Dashboard  
+
+# **Netflix Insights Dashboard**
 
 An interactive Power BI dashboard built to analyze and visualize **Netflix’s global catalog** of TV shows and movies—focusing on content distribution, trends over time, genres, and country-wise contributions.  
 
